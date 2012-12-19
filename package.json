@@ -1,18 +1,16 @@
 {
-  "name":"mocha-microevent-example",
-  "description":"Code samples from the 'jsdom and jquery' article on the Nodejitsu blog",
+  "name":"Javascript-The-Good-Parts",
+  "description":"Just some exercices from the book 'Javascript The Good Parts'.",
   "version":"0.1.0",
-  "author":"Programaniacos",
+  "author":"Aitor Alzola",
   "repository":{
     "type":"git",
-    "url":"git@github.com:Programania/ge.git"
+    "url":"https://github.com/aitortxu/Javascript-The-Good-Parts.git "
   },
   "dependencies":{
     "mocha":">=1.7.0",
     "should":">=1.2.1",
     "sinon":">=1.5.0",
-    "microevent":">=1.0.0",
-    "jquery":">=1.8.2",
     "expect.js":"*"
   },
   "engines":{
