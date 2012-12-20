@@ -1,4 +1,4 @@
-describe("function invocation", function(){
+describe("function", function(){
 	beforeEach(function(){
 		Function.prototype.method = function (name, func) {
 			this.prototype[name] = func;
